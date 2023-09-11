@@ -3,7 +3,7 @@
 	</HEAD>
 	<FORM>
 
-	<INPUT TYPE="TEXT" NAME="NOMBRE"/>	
+	<INPUT TYPE="TEXT" NAME="MUÑOZ"/>	
 
 	</FORM>
 
